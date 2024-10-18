@@ -1,7 +1,7 @@
-const nome = "Jhon";
-const xp = 4300;
+let nome = "Jhon";
+let xp = 4300;
 
-const nivel = level(xp);
+let nivel = level(xp);
 
 console.log(`O Herói de nome ${nome} está no nível ${nivel}`);
 
